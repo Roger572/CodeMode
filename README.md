@@ -4,5 +4,5 @@ This repository explores the collection of a few collaborative group projects, w
 
 <p align="center">  
 <img src="https://cloud.google.com/static/products/ai/ml-comic-1/assets/panel_12_1x.png"
-width="500"></center>  
+width="400"></center>  
 </p> 
