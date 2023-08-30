@@ -6,3 +6,10 @@ This repository explores the collection of a few collaborative group projects, w
 <img src="https://cloud.google.com/static/products/ai/ml-comic-1/assets/panel_12_1x.png"
 width="400"></center>  
 </p> 
+
+# Content summary
+
+|   | Category |  
+|---|----------|  
+|🎨| Data visualisation |  
+|🔮| Machine learning |    
